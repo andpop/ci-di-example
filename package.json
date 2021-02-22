@@ -24,9 +24,9 @@
     ]
   },
   "husky": {
-      "hooks": {
-          "pre-commit": "CI=true npm run test"
-      }
+    "hooks": {
+      "pre-commit": "CI=true npm run test"
+    }
   },
   "browserslist": {
     "production": [
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "husky": "^5.1.0"
+    "husky": "^4.3.8"
   }
 }
