@@ -27,7 +27,7 @@
       "hooks": {
           "pre-commit": "CI=true npm run test"
       }
-  }
+  },
   "browserslist": {
     "production": [
       ">0.2%",

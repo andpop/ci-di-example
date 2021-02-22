@@ -1,7 +1,7 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen } from "@testing-library/react";
 import React from "React";
 import ReactDOM from "react-dom";
-import App from './App';
+import App from "./App";
 
 it("renders without crashing", () => {
   expect(false).toEqual(true);
